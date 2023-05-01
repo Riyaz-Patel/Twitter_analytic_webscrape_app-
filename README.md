@@ -1,4 +1,4 @@
-# Dash_Tw_Analytics - Projet Dash : Haris PATEL - Riyâz PATEL - M2 DSS / Dr.Zitouni 
+# Dash_Tw_Analytics - Projet Dash : Riyâz PATEL - Haris PATEL - M2 DSS / Dr.Zitouni 
 
 
 ## Présentation 
